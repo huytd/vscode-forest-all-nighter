@@ -1,0 +1,22 @@
+{
+    "name": "forest-all-nighter",
+    "displayName": "Forest All-Nighter",
+    "description": "Based on Forest Night with higher constrast",
+    "version": "0.0.1",
+    "publisher": "huytd",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Forest All-Nighter",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Forest All-Nighter-color-theme.json"
+            }
+        ]
+    }
+}
