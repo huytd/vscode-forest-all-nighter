@@ -1,6 +1,7 @@
 {
 	"name": "Forest All-Nighter",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"activityBar.activeBackground": "#14181a",
 		"activityBar.activeBorder": "#14181a",

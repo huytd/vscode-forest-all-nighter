@@ -2,7 +2,7 @@
     "name": "forest-all-nighter",
     "displayName": "Forest All-Nighter",
     "description": "Based on Forest Night with higher constrast",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "huytd",
     "repository": "https://github.com/huytd/vscode-forest-all-nighter",
     "engines": {
