@@ -17,6 +17,11 @@
                 "label": "Forest All-Nighter",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Forest All-Nighter-color-theme.json"
+            },
+            {
+                "label": "Forest All-Nighter Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Forest All-Nighter-italics-color-theme.json"
             }
         ]
     }
